@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msgxavi",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfredjavi2/random-str-msgxavi.git"
+  },
+  "keywords": [],
+  "author": "alfredjavi <alfredjavi28@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alfredjavi2/random-str-msgxavi/issues"
+  },
+  "homepage": "https://github.com/Alfredjavi2/random-str-msgxavi#readme",
+  "bin": {
+    "random-str-msgxavi": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
